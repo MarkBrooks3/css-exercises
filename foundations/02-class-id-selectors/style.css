@@ -1,0 +1,19 @@
+.classy {
+  background-color: #ff9191;
+  font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+.three {
+  font-size: 24px;
+}
+
+#two {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#four {
+  background-color: #6af76a;
+  font-weight: 700;
+  font-size: 24px;
+}
